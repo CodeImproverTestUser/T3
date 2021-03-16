@@ -1,0 +1,11 @@
+duplicationConfig:
+  #Below patters are in reugular exporession
+  exclusions:
+    pathPatterns:
+      - \.json$
+      - \.yml$
+      - \.md$
+    linePatterns:
+      - //\S+;     
+    numberOfLinesToCompare: 7
+    
