@@ -1,5 +1,5 @@
 duplicationConfig:
-  numberOfLinesToCompare: 6
+  numberOfLinesToCompare: 5
   #Below patters are in reugular exporession
   exclusions:
     pathPatterns:
